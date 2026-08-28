@@ -1,6 +1,6 @@
 {
  "FileName": "My Config",
- "Version": "1.0",
+ "Version": "3.0",
  "ReleaseNotes": "What's new!",
  "contactSupport": "",
  "config_url": "https:\/\/raw.githubusercontent.com\/jmgc95\/aio-cupdater\/main\/default_config.hs",
